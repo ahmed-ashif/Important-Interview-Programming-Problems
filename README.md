@@ -6,8 +6,11 @@ Input: a=10 b=20
 <br>
 Output: a=20 b=10
 <br>
+<br>
 <b>2. Write a Program to Reverse a Number.</b>
 <br>
 Input: 1234
 <br>
 Output: 4321
+<br>
+<br>
