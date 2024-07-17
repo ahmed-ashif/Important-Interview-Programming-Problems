@@ -83,36 +83,35 @@ Output: yes
 <br>
 <br>
 
-11. Write a Program to Count Number of digits in a Number.
+<b>11. Write a Program to Count Number of digits in a Number.</b>
 <br>
 Input: 1234
 <br>
 Outpt: No of digits are = 4
 <br>
 <br>
-13. Write a Program to Count Number of Even and Odd Digits in a Number.
+
+<b>13. Write a Program to Count Number of Even and Odd Digits in a Number.</b>
 <br>
-Input: 1234
-<br>
-Output: Even Numbers:2
-<br>
+Input: 1234<br>
+Output: Even Numbers:2<br>
 Odd Numbers: 2
 <br>
 <br>
 
-15. Write a Program to Find Number is Even or Odd.<br>
+<b>15. Write a Program to Find Number is Even or Odd.</b><br>
 Input:2<br>
 Output: Even Number
 <br>
 <br>
-17. Write a Program to Find Sum of Digits in a Number.<br>
+<b>17. Write a Program to Find Sum of Digits in a Number.</b><br>
 Input: 1234<br>
 Output: 10
 <br>
 <br>
-18. Write a Program to Find the Largest Number. <br>
+<b>18. Write a Program to Find the Largest Number.</b> <br>
 Input: a=10 , b=20, c=30<br>
 Output: Largest Number is 30
 <br>
 <br>
-# 20. Write a Program to Generate Random Number and String.<br>
+<b>19. Write a Program to Generate Random Number and String.</b>
