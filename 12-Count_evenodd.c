@@ -1,3 +1,5 @@
+// Write a program to count the number of odd and even digits in an integer
+
 #include <stdio.h>
 int main()
 {
